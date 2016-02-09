@@ -1,7 +1,7 @@
 Search in system cat
 ===================
 
-Extension for Cotonti CMF. Adds ability to search in system category
+Extension for Cotonti CMF `Search` plugin. Adds ability to search in system category
 
 Features
 --------
@@ -12,7 +12,8 @@ Features
 Requirements
 ------------
 
-Current version 1.0.0 requires Cotonti Siena v0.9.17 and newer
+Current version 1.0.0 requires Cotonti Siena v0.9.17 or newer, 
+and `Search` plugin to be installed.
 
 
 Install
